@@ -1,0 +1,82 @@
+[
+    {
+        "project-Id" : "01",
+        "projectName" : "Farmmart",
+        "description" : " An E-commerce website for agriculture and agro.",
+        "thumbnails" : ["https://i.ibb.co/qsW985V/Screenshot-2023-07-11-121357.jpg", "https://i.ibb.co/88C51mm/Screenshot-2023-07-11-121412.jpg", "https://i.ibb.co/KrsQvPN/Screenshot-2023-07-11-121429.jpg","https://i.ibb.co/FsS6JDw/Screenshot-2023-07-11-121447.jpg", "https://i.ibb.co/NyjntHk/Screenshot-2023-07-11-121541.jpg"],
+        "profile" : "https://i.ibb.co/6ntqV5V/Screenshot-2023-07-11-121311.jpg",
+        "features" : [
+            "The products will be some specific animals and their foods and medicines.",
+            "Admin has to verify all the users.",
+            "After the verification user’s portal will open and they can do their activities"
+        ],
+        "technologies" : [
+            "JavaScript", "JSX", "Tailwind", "Daisy UI", "React", "React Router", "Private router", "SPA", "Context APi", "Firebase Auth", 
+            "Node Js", "Express JS", "MongoDB crud", "StripeJs", "React query", "dot env", "private router"   
+        ],
+        "liveLink" : "https://farmmart.netlify.app/",
+        "githubLink" : "https://github.com/showaibbinnasir/farmmart-client",
+        "serverLink" : "https://github.com/showaibbinnasir/farmmart-server"
+    },
+    {
+        "project-Id" : "02",
+        "projectName" : "MobileDekho.com",
+        "description" : " An E-commerce website that where person can buy and sell second hand phone.",
+        "thumbnails" : ["https://i.ibb.co/Ntx976r/1.jpg", "https://i.ibb.co/N6xh01X/2.jpg", "https://i.ibb.co/xhcsCF5/3.jpg","https://i.ibb.co/w0Hjr9s/4.jpg", "https://i.ibb.co/y5QPh1x/5.jpg"],
+        "profile" : "https://i.ibb.co/Ntx976r/1.jpg",
+        "features" : [
+            "Some specific mobile brands that users can sell or buy the product.",
+            "User can register as seller or buyer and do actions as his/her role and also can make      payment by visa, mastercard, American express and etc.",
+            "Admin can monitor seller and buyer and their product and can verify the authentic product."
+        ],
+        "technologies" : [
+            "JavaScript", "JSX", "Tailwind", "Daisy UI", "React", "React Router", "Private router", "SPA", "Context APi", "Firebase Auth", 
+            "Node Js", "Express JS", "MongoDB crud", "StripeJs", "React query", "dot env", "private router"   
+        ],
+        "liveLink" : "https://mobiledekho-9c210.web.app/",
+        "githubLink" : "https://github.com/showaibbinnasir/mobiledekho-client",
+        "serverLink" : "https://github.com/showaibbinnasir/mobiledekho-server"
+    },
+    {
+        "project-Id" : "03",
+        "projectName" : "PhotoGuru.com",
+        "description" : "  A Photographer’s personal website. ",
+        "thumbnails" : ["https://i.ibb.co/jyDpxht/1.jpg", "https://i.ibb.co/5XZJTg1/2.jpg", "https://i.ibb.co/DCbXdNk/3.jpg","https://i.ibb.co/9bXWHXq/4.jpg", "https://i.ibb.co/QjqrP6n/5.jpg"],
+        "profile" : "https://i.ibb.co/jyDpxht/1.jpg",
+        "features" : [
+            "Lots of packages that he can provide and visitors can see the package details. ",
+            "Admin can login to this system and add new packages, see the visitor’s reviews, and delete reviews.",
+            "Visitors can see others’ reviews and give reviews of admin’s packages."
+        ],
+        "technologies" : [
+            "JavaScript", "JSX", "Tailwind", "Daisy UI", "React", "React Router", "Private router", "SPA", "Context APi", "Firebase Auth", 
+            "Node Js", "Express JS", "MongoDB crud", "StripeJs", "React query", "dot env", "private router"   
+        ],
+        "liveLink" : "https://photo-guru-f8273.web.app/",
+        "githubLink" : "https://github.com/showaibbinnasir/photoguru-client",
+        "serverLink" : "https://github.com/showaibbinnasir/mobiledekho-server"
+    },
+    {
+        "project-Id" : "04",
+        "projectName" : "WebSchool.com",
+        "description" : "An Education Website where visitor can test their experience about specific topic and give test.",
+        "thumbnails" : ["https://i.ibb.co/M2q69xh/1.jpg",
+        "https://i.ibb.co/h8xPX3v/2.jpg",
+        "https://i.ibb.co/LNpQ0cW/3.jpg",
+        "https://i.ibb.co/0tFCfwg/4.jpg",
+        "https://i.ibb.co/tDKxzgV/5.jpg"],
+        "profile" : "https://i.ibb.co/M2q69xh/1.jpg",
+        "features" : [
+            "Some specific mobile brands that users can sell or buy the product.",
+            "User can register as seller or buyer and do actions as his/her role and also can make      payment by visa, mastercard, American express and etc.",
+            "Admin can monitor seller and buyer and their product and can verify the authentic product."
+        ],
+        "technologies" : [
+            "JavaScript", "JSX", "Tailwind", "Daisy UI", "React", "React Router", "Private router", "SPA", "Context APi", "Firebase Auth", 
+            "Node Js", "Express JS", "MongoDB crud", "StripeJs", "React query", "dot env", "private router"   
+        ],
+        "liveLink" : "https://web-school-live.netlify.app/",
+        "githubLink" : "https://web-school-live.netlify.app/",
+        "serverLink" : "https://web-school-live.netlify.app/"
+    }
+]

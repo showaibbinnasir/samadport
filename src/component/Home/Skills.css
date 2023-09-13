@@ -1,0 +1,13 @@
+.skills{
+    height: 350px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.skills::-webkit-scrollbar{
+    width: 12px;
+    background-color: #190E40;
+}
+.skills::-webkit-scrollbar-thumb{
+    background-color: #9E1F63;
+}
