@@ -8,7 +8,7 @@ const TopBanner = () => {
             <div className='grid grid-cols-1 lg:grid-cols-2 justify-around items-center gap-5'>
                 <div className='text-start' data-aos="fade-down-right" data-aos-duration="2000">
                     <h1>Hello I Am</h1>
-                    <h1 className='text-4xl font-semibold'>Showaib bin Nasir</h1>
+                    <h1 className='text-4xl font-semibold'>Sharif Samad</h1>
                     <h1 style={{ fontSize: '18px', margin: 'auto 0', fontWeight: 'normal' }}>
                         A {' '}
                         <span style={{ color: 'white'}}>
@@ -27,9 +27,9 @@ const TopBanner = () => {
                     </h1>
                     <div className='flex justify-start'>
                         <div className='flex'>
-                            <a href="https://www.linkedin.com/in/showaib-bin-nasir-7381491a3" target="_blank"><h1 className='text-4xl'><AiFillLinkedin /></h1></a>
-                            <a href="https://github.com/showaibbinnasir" target="_blank"><h1 className='text-4xl'><DiGithubBadge /></h1></a>
-                            <a href="https://www.facebook.com/showaibbin.nasir/" target="_blank"><h1 className='text-4xl'><AiFillFacebook /></h1></a>
+                            <a href="https://www.linkedin.com/in/md-sahrif-samad-291407271/" target="_blank"><h1 className='text-4xl'><AiFillLinkedin /></h1></a>
+                            <a href="https://github.com/Sharif14" target="_blank"><h1 className='text-4xl'><DiGithubBadge /></h1></a>
+                            <a href="https://www.facebook.com/samad.rifat.31" target="_blank"><h1 className='text-4xl'><AiFillFacebook /></h1></a>
                         </div>
                     </div>
                     <div data-aos="zoom-in-left" data-aos-duration="2000">

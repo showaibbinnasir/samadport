@@ -18,7 +18,7 @@ const Navigation = () => {
                         <li><Link to='/blogs'>Blogs</Link></li>
                         </ul>
                     </div>
-                    <a className="btn btn-ghost normal-case text-md">SHOWAIBNISHAD</a>
+                    <a className="btn btn-ghost normal-case text-md">Sharif Samad</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
